@@ -37,7 +37,7 @@ let titulo = document.querySelector('#titulo')
                     imagen.src = datos.url
                     imagen.style.display = "block"
 
-                    // Guardamos solo el año correcto
+                  
                     añoCorrecto = datos.date.split("-")[0]
 
                     resultado.textContent = "" 
