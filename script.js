@@ -5,5 +5,5 @@ boton.addEventListener('click', function() {
 
 const boton2 = document.getElementById('boton2');
 boton2.addEventListener('click', function() {
-    window.location.href = 'GuessY.html';
+    window.location.href = 'guessY.html';
 });
